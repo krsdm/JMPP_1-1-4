@@ -15,7 +15,7 @@ public class Util {
     // реализуйте настройку соеденения с БД
 
     private static final String DB_USER = "root";
-    private static final String DB_PASS = "";
+    private static final String DB_PASS = "K5639667Dimon";
     private static final String DB_NAME = "usersdb";
     private static final String DB_URL = "jdbc:mysql://localhost:3306/" + DB_NAME;
 
